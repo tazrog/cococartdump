@@ -3,8 +3,6 @@
 This project is now a standalone CoCo cartridge dumper for an Arduino Mega 2560.
 
 - The firmware only reads cartridge ROM data.
-- Joystick support, quit/reset buttons, and XRoar bridge functions have been removed.
-- The cartridge pin layout in the dumper firmware is unchanged.
 
 ## Files
 
